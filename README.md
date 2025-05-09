@@ -1,3 +1,7 @@
+
+[![Deploy to GitHub Pages](https://github.com/Shawnkong-SSD/docker-assign02/actions/workflows/deploy.yml/badge.svg)](https://github.com/Shawnkong-SSD/docker-assign02/actions/workflows/deploy.yml)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
